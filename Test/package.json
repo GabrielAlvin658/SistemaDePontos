@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "mais um teste",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielAlvin658/SistemaDePontos"
+  },
+  "author": "Gabriel Souza",
+  "license": "UNLICENSED"
+}
